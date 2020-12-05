@@ -1,0 +1,19 @@
+{
+  "name": "auto-github-bio",
+  "version": "1.0.0",
+  "description": "Automatically change your Github Bio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "auto-github-bio",
+    "github"
+  ],
+  "author": "ShadeOxide",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "weather-js": "^2.0.0"
+  }
+}
