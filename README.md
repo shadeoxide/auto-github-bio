@@ -2,9 +2,14 @@
 Automate your Github Bio using weather-js
 <br>
 If you like this project, please star it :)
+
 <br>
+
+## Preview
 ![Preview](https://media.discordapp.net/attachments/725331486630215700/784732952923471887/unknown.png)
+
 <br>
+
 ## Installation
 ### Clone this project
 > Open `git bash` and run `git clone https://github.com/shadeoxide/auto-github-bio`
@@ -36,5 +41,5 @@ If you like this project, please star it :)
 
 <br>
 
-### Join my [Discord Server](https://discord.gg/mKyRmPB)
+## Join my [Discord Server](https://discord.gg/mKyRmPB)
 > If you get any problem, join my server and get in touch
